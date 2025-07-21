@@ -1,3 +1,6 @@
+package com.hexagonal.hexagonal.application.core.domain;
+
+
 public class Address {
     private String street;
     private String city;

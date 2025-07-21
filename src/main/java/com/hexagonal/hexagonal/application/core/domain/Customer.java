@@ -1,3 +1,6 @@
+package com.hexagonal.hexagonal.application.core.domain;
+
+
 public class Customer {
 
     private String id;
